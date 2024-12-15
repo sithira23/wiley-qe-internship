@@ -22,7 +22,7 @@ This test case tests the logout functionality. It performs the following actions
 - Verifies that the user has been logged out and the login button is visible again.
 
 #### Screenshot:
-![Logout Test Screenshot](images/logout-test.png)
+![Logout Test Screenshot](test-results/logout-Logout-Functionality-Test---Wiley-Online-Library-chromium/test-failed-1.png)
 
 ### 3. Search Functionality Test
 This test case checks the search functionality of the **Wiley Online Library**. It performs the following actions:
