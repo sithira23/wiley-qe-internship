@@ -13,7 +13,7 @@ This test case verifies the login functionality for the **Wiley Online Library**
 - Verifies successful login by checking the profile name.
 
 #### Screenshot:
-![Login Test Screenshot](images/login-test.png)
+![Login Test Screenshot](playwright-report/data)
 
 ### 2. Logout Test
 This test case tests the logout functionality. It performs the following actions:
