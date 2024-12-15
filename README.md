@@ -30,7 +30,7 @@ This test case checks the search functionality of the **Wiley Online Library**. 
 - Verifies that the search results are displayed.
 
 #### Screenshot:
-![Search Test Screenshot](images/search-test.png)
+![Search Test Screenshot](test-results/search-functionality-Searc-36283-Test---Wiley-Online-Library-chromium/test-failed-1.png)
 
 ## Note on Cloudflare Bot Detection
 While running the tests, the **Cloudflare bot identification** page is displayed each time, which blocks the automated tests from proceeding. This issue occurs because Cloudflare detects automated requests and triggers a verification challenge. You might need to solve the challenge manually or implement a workaround to bypass it.
